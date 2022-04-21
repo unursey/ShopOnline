@@ -9,7 +9,7 @@ body {
 
 .article-shoes {
   max-width: 1280px;
-  padding: 0 75px 0 110px;
+  padding: 0 75px;
   float: left;
 }
 
@@ -26,6 +26,7 @@ body {
   font-weight: 700;
   line-height: 33px;
   margin-top: 50px;
+  margin-bottom: 0;
 }
 
 .text {
@@ -33,6 +34,7 @@ body {
   font-weight: 500;
   line-height: 33px;
   margin-bottom: 50px;
+  margin-top: 0;
 }
 
 .text-title {
@@ -40,6 +42,7 @@ body {
   font-weight: 500;
   line-height: 33px;
   margin-top: 50px;
+  margin-bottom: 0;
 }
 
 .text-content {
@@ -56,12 +59,13 @@ body {
 
 .ad {
   float: right;
+  padding-right: 75px;
 }
 
 .ad-content {
   width: 530px;
   height: 325px;
-  margin: 100px 70px 50px 75px;
+  margin: 100px 0 50px 0;
 }
 
 .ad-travel {
