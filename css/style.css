@@ -1,9 +1,25 @@
+@font-face {
+  font-family: Lato;
+  src: local(Lato), local('Lato-Regular'), url('../fonts/lato-regular.woff2') format('woff2'),
+       url('../fonts/lato-regular.woff') format('woff');
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Lato;
+  src: local(Lato), local('Lato-Bold'), url('../fonts/lato-bold.woff2') format('woff2'),
+      url('../fonts/lato-bold.woff') format('woff');
+  font-weight: 700;
+  font-display: swap;
+}
+
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: Arial, Lato, sans-serif;
 }
 
 .container {
@@ -50,12 +66,24 @@ body {
   margin-bottom: 0;
 }
 
-.text-content {
+.list{
+  padding-left: 0;
+}
+
+.item {
+  list-style-type: none;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
+}
+
+.link {
+  text-decoration: none;
   color: #828282;
-  margin: 0;
+}
+
+.link:hover{
+  color: #454545;
 }
 
 .image {
@@ -71,31 +99,29 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 50px;
-
 }
 
 .ad-travel {
-  background-image: url("/img/aside-travel.jpg");
+  background-image: url("../img/aside-travel.jpg");
 }
 
 .ad-car {
-  background-image: url("/img/aside-car.jpg");
+  background-image: url("../img/aside-car.jpg");
 }
 
 .text-ad {
-  font-family: Lato, sans-serif;
+  font-family: Lato, serif;
   font-size: 16px;
-  font-weight: normal;
+  font-weight: 500;
   line-height: 24px;
   color: white;
   padding: 10px 110px 30px 30px;
-
 }
 
 .ad-title {
-  font-family: Lato, sans-serif;
+  font-family: Lato, serif;
   font-size: 30px;
-  font-weight: bold;
+  font-weight: 700;
   line-height: 39px;
   color: white;
   padding: 230px 110px 0 30px;
