@@ -1,0 +1,60 @@
+.article-shoes {
+  max-width: 1240px;
+  padding: 0 67px;
+}
+
+.page__title {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 65px;
+  color: #454545;
+  margin-top: 5px;
+}
+
+.article-shoes__subtitle {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 33px;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.article-shoes__text {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 33px;
+  margin-bottom: 50px;
+  margin-top: 0;
+}
+
+.article-shoes__text-title {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 33px;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.article-shoes__list{
+  padding-left: 0;
+}
+
+.article-shoes__item {
+  list-style-type: none;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.article-shoes__link {
+  text-decoration: none;
+  color: #828282;
+}
+
+.article-shoes__link:hover{
+  color: #454545;
+}
+
+.article-shoes__image {
+  margin: 50px 0;
+}
