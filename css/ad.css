@@ -2,22 +2,22 @@
   padding: 0 67px;
 }
 
-.ad__content {
+.card {
   max-width: 530px;
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 50px;
 }
 
-.ad__content_bg_travel {
+.card_bg_travel {
   background-image: url("../img/ad/aside-travel.jpg");
 }
 
-.ad__content_bg_car {
+.card_bg_car {
   background-image: url("../img/ad/aside-car.jpg");
 }
 
-.ad__text {
+.card__text {
   font-family: Lato, serif;
   font-size: 16px;
   font-weight: 500;
@@ -26,7 +26,7 @@
   padding: 10px 110px 30px 30px;
 }
 
-.ad__title {
+.card__title {
   font-family: Lato, serif;
   font-size: 30px;
   font-weight: 700;

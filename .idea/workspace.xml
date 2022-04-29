@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8881ea9-b979-4c8d-bcef-dc71a7f179e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/ad.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/article-shoes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/basic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/article.html" beforeDir="false" afterPath="$PROJECT_DIR$/article.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aside-car.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/ad/aside-car.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aside-travel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/ad/aside-travel.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/boots.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/article-shoes/boots.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cream.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/article-shoes/cream.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ad.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/ad.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/article-shoes.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/article-shoes.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -63,7 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651095444308</updated>
-      <workItem from="1651095446258" duration="4004000" />
+      <workItem from="1651095446258" duration="4202000" />
+      <workItem from="1651242859182" duration="1089000" />
     </task>
     <servers />
   </component>
